@@ -1,0 +1,11 @@
+red false 5 8 4
+blue false 5 7 3
+pink false 5 8 4
+red true 5 8 6
+blue true 7 8 9
+pink true 5 8 7
+yellow false 3 4 6
+black true 8 5 9
+otherpurple false 5 2 
+othergreen true 5 4 0
+otherblue false 5 6 d
